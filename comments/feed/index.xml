@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for david.writes(&#039;code&#039;);	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Don&#039;t mind me... just here to take over the world...</description>
+	<lastBuildDate>Wed, 06 Apr 2022 16:15:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Comment on Why you should use nth-child instead of class=&#8221;odd&#124;even&#8221; by Phpthug		</title>
+		<link>/why-you-should-use-nth-child-instead-of-classoddeven/#comment-179</link>
+
+		<dc:creator><![CDATA[Phpthug]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 02:37:00 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=101#comment-179</guid>
+
+					<description><![CDATA[Been tying to get people on that for almost two years ago now. One day... ]]></description>
+			<content:encoded><![CDATA[<p>Been tying to get people on that for almost two years ago now. One day&#8230; </p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on drupal XSS filtering removes unrecognized tags by Justin Ramb		</title>
+		<link>/drupal-xss-filtering-removes-unrecognized-tags/#comment-15</link>
+
+		<dc:creator><![CDATA[Justin Ramb]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2012 20:59:22 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=56#comment-15</guid>
+
+					<description><![CDATA[Hey David,
+I have been trying to track you down.  We have some freelance work for our agency and wasnt sure if you were interested.  Please contact us if you have some time.
+Thanks.
+Justin Ramb]]></description>
+			<content:encoded><![CDATA[<p>Hey David,<br />
+I have been trying to track you down.  We have some freelance work for our agency and wasnt sure if you were interested.  Please contact us if you have some time.<br />
+Thanks.<br />
+Justin Ramb</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:14:25 by W3 Total Cache
+-->

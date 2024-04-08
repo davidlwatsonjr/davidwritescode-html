@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>web 2.0 &#8211; david.writes(&#039;code&#039;);</title>
+	<atom:link href="/tag/web-2-0/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Don&#039;t mind me... just here to take over the world...</description>
+	<lastBuildDate>Mon, 21 Mar 2016 07:15:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>My First Blog</title>
+		<link>/my-first-blog/</link>
+					<comments>/my-first-blog/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sat, 18 Apr 2009 02:22:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[computing]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[web 2.0]]></category>
+		<guid isPermaLink="false">/blog/2009/my-first-blog/</guid>
+
+					<description><![CDATA[I&#8217;m new to this blogging thing, but lately I&#8217;ve been really interested in &#8220;becoming a cloud.&#8221; I&#8217;ve always been a nerd, but have been somewhat opposed to trends. But this is the way the world is going. Everything is becoming connected. It accelerates every day. Twitter, for example, is seeing membership increase percentages in the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/my-first-blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:15:23 by W3 Total Cache
+-->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: My First Blog	</title>
+	<atom:link href="/my-first-blog/feed/" rel="self" type="application/rss+xml" />
+	<link>/my-first-blog/</link>
+	<description>Don&#039;t mind me... just here to take over the world...</description>
+	<lastBuildDate>Mon, 21 Mar 2016 07:15:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:15:09 by W3 Total Cache
+-->

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xml:lang="en-US"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	>
+	<title type="text">
+	Comments on My First Blog	</title>
+	<subtitle type="text">Don&#039;t mind me... just here to take over the world...</subtitle>
+
+	<updated>2016-03-21T07:15:44Z</updated>
+
+	<link rel="alternate" type="text/html" href="/my-first-blog/#respond" />
+	<link rel="self" type="application/atom+xml" href="/my-first-blog/feed/atom/" />
+	<id>/my-first-blog/feed/atom/</id>
+
+</feed>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:15:33 by W3 Total Cache
+-->

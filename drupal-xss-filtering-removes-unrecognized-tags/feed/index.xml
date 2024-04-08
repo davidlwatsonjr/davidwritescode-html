@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: drupal XSS filtering removes unrecognized tags	</title>
+	<atom:link href="/drupal-xss-filtering-removes-unrecognized-tags/feed/" rel="self" type="application/rss+xml" />
+	<link>/drupal-xss-filtering-removes-unrecognized-tags/</link>
+	<description>Don&#039;t mind me... just here to take over the world...</description>
+	<lastBuildDate>Sat, 19 Mar 2022 19:48:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Justin Ramb		</title>
+		<link>/drupal-xss-filtering-removes-unrecognized-tags/#comment-15</link>
+
+		<dc:creator><![CDATA[Justin Ramb]]></dc:creator>
+		<pubDate>Fri, 03 Feb 2012 20:59:22 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=56#comment-15</guid>
+
+					<description><![CDATA[Hey David,
+I have been trying to track you down.  We have some freelance work for our agency and wasnt sure if you were interested.  Please contact us if you have some time.
+Thanks.
+Justin Ramb]]></description>
+			<content:encoded><![CDATA[<p>Hey David,<br />
+I have been trying to track you down.  We have some freelance work for our agency and wasnt sure if you were interested.  Please contact us if you have some time.<br />
+Thanks.<br />
+Justin Ramb</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:14:59 by W3 Total Cache
+-->

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; david.writes(&#039;code&#039;);</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Don&#039;t mind me... just here to take over the world...</description>
+	<lastBuildDate>Sat, 19 Mar 2022 19:48:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Human affinity for bass</title>
+		<link>/human-affinity-for-bass/</link>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2013 22:24:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/blog/?p=120</guid>
+
+					<description><![CDATA[Why do humans like bass in their music so much? I have a hypothesis I stumbled on while listening to music pretty loudly with the bass turned up and noticing it scared my dog. Perhaps if we go back far enough, we find something akin to African drum circles. What purpose would these serve? To [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>How big ARE those numbers?</title>
+		<link>/how-big-are-those-numbers/</link>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 06 Jul 2012 05:33:16 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/blog/?p=72</guid>
+
+					<description><![CDATA[So, I was on my way home and noticed a nice storm cloud ahead with some pretty lightning. Oooo Ahhh. But what really got me going was looking up at those clouds and wondering, &#8220;How much water is up there anyway?&#8221; So I googled it. Not a lot of great results off that initial search, [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>My First Blog</title>
+		<link>/my-first-blog/</link>
+					<comments>/my-first-blog/#respond</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sat, 18 Apr 2009 02:22:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[computing]]></category>
+		<category><![CDATA[future]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[web 2.0]]></category>
+		<guid isPermaLink="false">/blog/2009/my-first-blog/</guid>
+
+					<description><![CDATA[I&#8217;m new to this blogging thing, but lately I&#8217;ve been really interested in &#8220;becoming a cloud.&#8221; I&#8217;ve always been a nerd, but have been somewhat opposed to trends. But this is the way the world is going. Everything is becoming connected. It accelerates every day. Twitter, for example, is seeing membership increase percentages in the [&#8230;]]]></description>
+		
+					<wfw:commentRss>/my-first-blog/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:14:41 by W3 Total Cache
+-->

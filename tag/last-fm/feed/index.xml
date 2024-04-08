@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>last.fm &#8211; david.writes(&#039;code&#039;);</title>
+	<atom:link href="/tag/last-fm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Don&#039;t mind me... just here to take over the world...</description>
+	<lastBuildDate>Wed, 06 Apr 2022 16:15:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Why you should use nth-child instead of class=&#8221;odd&#124;even&#8221;</title>
+		<link>/why-you-should-use-nth-child-instead-of-classoddeven/</link>
+					<comments>/why-you-should-use-nth-child-instead-of-classoddeven/#comments</comments>
+		
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 02:21:17 +0000</pubDate>
+				<category><![CDATA[CSS]]></category>
+		<category><![CDATA[css]]></category>
+		<category><![CDATA[last.fm]]></category>
+		<guid isPermaLink="false">/blog/?p=101</guid>
+
+					<description><![CDATA[Take a gander at this: That&#8217;s my track listing on last.fm after I&#8217;ve deleted a few duplicates (thank you, last.fm Android app). Notice anything funny? Yeah. How about those background colors. See, last.fm slaps every other row with an &#8220;odd&#8221; class. They then target that class to alternate background colors for every other row. But [&#8230;]]]></description>
+		
+					<wfw:commentRss>/why-you-should-use-nth-child-instead-of-classoddeven/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:14:54 by W3 Total Cache
+-->

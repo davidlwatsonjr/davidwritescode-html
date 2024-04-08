@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Why you should use nth-child instead of class=&#8221;odd&#124;even&#8221;	</title>
+	<atom:link href="/why-you-should-use-nth-child-instead-of-classoddeven/feed/" rel="self" type="application/rss+xml" />
+	<link>/why-you-should-use-nth-child-instead-of-classoddeven/</link>
+	<description>Don&#039;t mind me... just here to take over the world...</description>
+	<lastBuildDate>Wed, 06 Apr 2022 16:15:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Phpthug		</title>
+		<link>/why-you-should-use-nth-child-instead-of-classoddeven/#comment-179</link>
+
+		<dc:creator><![CDATA[Phpthug]]></dc:creator>
+		<pubDate>Sat, 16 Mar 2013 02:37:00 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=101#comment-179</guid>
+
+					<description><![CDATA[Been tying to get people on that for almost two years ago now. One day... ]]></description>
+			<content:encoded><![CDATA[<p>Been tying to get people on that for almost two years ago now. One day&#8230; </p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using Disk
+
+Served from: davidwritescode.com @ 2024-04-08 14:14:47 by W3 Total Cache
+-->
